@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+tqdm
+torch
+scikit-learn
+transformers
+huggingface_hub
+pyarrow
+jieba
