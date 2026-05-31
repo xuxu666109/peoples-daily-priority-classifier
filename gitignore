@@ -1,0 +1,11 @@
+outputs/
+hf_models/
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.csv
+*.png
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
